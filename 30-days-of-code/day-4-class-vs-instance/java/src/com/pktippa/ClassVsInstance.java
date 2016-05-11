@@ -38,7 +38,7 @@ public class ClassVsInstance {
 			if(age < 13){
 				statement = "You are young.";
 			}else if(age >= 13 && age < 18){
-				statement = "You are teenager.";
+				statement = "You are a teenager.";
 			}else{
 				statement = "You are old.";
 			}

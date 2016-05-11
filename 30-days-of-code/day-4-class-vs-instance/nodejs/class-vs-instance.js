@@ -32,7 +32,7 @@ function Person(initialAge){
 	  if(this.age < 13){
 			statement = "You are young.";
 		}else if(this.age >= 13 && this.age < 18){
-			statement = "You are teenager.";
+			statement = "You are a teenager.";
 		}else{
 			statement = "You are old.";
 		}
