@@ -6,3 +6,4 @@
 4. [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) - [doc](day-3-conditional-statements/day-3-conditional-statements.md) - [Java](day-3-conditional-statements/java/src/com/pktippa/ConditionalStatements.java)
 5. [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) - [doc](day-4-class-vs-instance/day-4-class-vs-instance.md) - [Java](day-4-class-vs-instance/java/src/com/pktippa/ClassVsInstance.java) - [NodeJS](day-4-class-vs-instance/nodejs/class-vs-instance.js)
 6. [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops) - [doc](day-5-loops/day-5-loops.md) - [NodeJS](day-5-loops/nodejs/loops.js)
+7. [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) - [doc](day-6-lets-review/day-6-lets-review.md) - [NodeJS](day-6-lets-review/nodejs/review_loop.js)
