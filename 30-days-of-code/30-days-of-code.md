@@ -8,3 +8,4 @@
 6. [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops) - [doc](day-5-loops/day-5-loops.md) - [NodeJS](day-5-loops/nodejs/loops.js)
 7. [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) - [doc](day-6-lets-review/day-6-lets-review.md) - [NodeJS](day-6-lets-review/nodejs/review_loop.js)
 8. [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) - [doc](day-7-arrays/day-7-arrays.md) - [NodeJS](day-7-arrays/nodejs/arrays.js)
+9. [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) - [doc](day-8-dictionaries-and-maps/day-8-dictionaries-and-maps.md) - [NodeJS](day-8-dictionaries-and-maps/nodejs/dictionaries-and-maps.js)
