@@ -10,3 +10,4 @@
 8. [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) - [doc](day-7-arrays/day-7-arrays.md) - [NodeJS](day-7-arrays/nodejs/arrays.js)
 9. [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) - [doc](day-8-dictionaries-and-maps/day-8-dictionaries-and-maps.md) - [NodeJS](day-8-dictionaries-and-maps/nodejs/dictionaries-and-maps.js)
 10. [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion) - [doc](day-9-recursion/day-9-recursion.md) - [NodeJS](day-9-recursion/nodejs/day-9-recursion.js)
+11. [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) - [doc](day-10-binary-numbers/day-10-binary-numbers.md) - [NodeJS](day-10-binary-numbers/nodejs/binary-numbers.js)
