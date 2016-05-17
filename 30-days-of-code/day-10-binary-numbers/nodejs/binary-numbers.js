@@ -24,8 +24,11 @@ function readLine() {
 // End
 
 function main(){
-   // var n = parseInt(readLine());
+	
+    var n = parseInt(readLine());
     var bin = n.toString(2); // Converting integer into binary number
+    
+    // Method 1
     var maxLength = 0;
     var tempLength = 0;
     bin = bin.split(''); // Converting binary string into array
@@ -42,4 +45,10 @@ function main(){
     	}
     }
     process.stdout.write(maxLength);
+    
+    // Method 2 - for higher performance
+    
+    bin = bin.split(/0+/); // Converting binary string into array of integers with only 1's
+    var maxVal = Math.max.apply(Math,bin);
+    process.stdout.write(maxVal.toString().length);
 }
