@@ -13,3 +13,4 @@
 11. [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) - [doc](day-10-binary-numbers/day-10-binary-numbers.md) - [NodeJS](day-10-binary-numbers/nodejs/binary-numbers.js)
 12. [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) - [doc](day-11-2d-arrays/day-11-2d-arrays.md) - [NodeJS](day-11-2d-arrays/nodejs/2darrays.js)
 13. [Dat 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) - [doc](day-12-inheritance/day-12-inheritance.md) - [Java](day-12-inheritance/java/src/com/pktippa/Inheritance.java)
+14. [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) - [doc](day-13-abstract-classes/day-13-abstract-classes.md) - [Java](day-13-abstract-classes/java/src/com/pktippa/AbstractClasses.java)
