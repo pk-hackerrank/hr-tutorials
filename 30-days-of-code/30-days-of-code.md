@@ -15,3 +15,4 @@
 13. [Dat 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) - [doc](day-12-inheritance/day-12-inheritance.md) - [Java](day-12-inheritance/java/src/com/pktippa/Inheritance.java)
 14. [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) - [doc](day-13-abstract-classes/day-13-abstract-classes.md) - [Java](day-13-abstract-classes/java/src/com/pktippa/AbstractClasses.java)
 15. [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) - [doc](day-14-scope/day-14-scope.md) - [Java](day-14-scope/java/src/com/pktippa/Scope.java)
+16. [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) - [doc](day-15-linked-list/day-15-linked-list.md) - [Java](day-15-linked-list/java/src/com/pktippa/LinkedListSol.java)  
