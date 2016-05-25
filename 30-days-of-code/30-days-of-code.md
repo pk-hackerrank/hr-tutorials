@@ -19,3 +19,4 @@
 17. [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) - [doc](day-16-exceptions-string-to-integer/day-16-exceptions-string-to-integer.md) - [Java](day-16-exceptions-string-to-integer/java/src/com/pktippa/StringToInteger.java)
 18. [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) - [doc](day-17-more-exceptions/day-17-more-exceptions.md) - [Java](day-17-more-exceptions/java/src/com/pktippa/MoreExceptions.java)
 19. [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) - [doc](day-18-queues-and-stacks/day-18-queues-and-stacks.md) - [NodeJS](day-18-queues-and-stacks/nodejs/queues-and-stacks.js)
+20. [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces) - [doc](day-19-interfaces/day-19-interfaces.md) - [Java](day-19-interfaces/java/src/com/pktippa/Interfaces.java)
