@@ -21,3 +21,4 @@
 19. [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) - [doc](day-18-queues-and-stacks/day-18-queues-and-stacks.md) - [NodeJS](day-18-queues-and-stacks/nodejs/queues-and-stacks.js)
 20. [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces) - [doc](day-19-interfaces/day-19-interfaces.md) - [Java](day-19-interfaces/java/src/com/pktippa/Interfaces.java)
 21. [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting) - [doc](day-20-sorting/day-20-sorting.md) - [NodeJS](day-20-sorting/nodejs/sorting.js)
+22. [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) - [doc](day-21-generics/day-21-generics.md) - [Java](day-21-generics/java/src/com/pktippa/Generics.java)
